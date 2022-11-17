@@ -1,6 +1,6 @@
 **Weather App** is a live weather forecasting.
 Run- node app.js
-![ScreenShots](https://github.com/agrajagrawal/WeatherApp/blob/master/WeatherApp.png)
+![ScreenShots](https://github.com/aman-s-20/check-weather/blob/master/asset/Screenshot%20(241).png)
 
 ## Features
 
