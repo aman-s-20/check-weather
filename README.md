@@ -1,5 +1,5 @@
 **Weather App** is a live weather forecasting.
-
+Run- node app.js
 ![ScreenShots](https://github.com/agrajagrawal/WeatherApp/blob/master/WeatherApp.png)
 
 ## Features
@@ -24,4 +24,4 @@
 
 ### License - ISC
 
-Copyright (c) 2020-2021
+Copyright (c) 2021-2022
